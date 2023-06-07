@@ -1,0 +1,4 @@
+GET {{USER}}/user
+
+###
+GET {{USER}}/user/1

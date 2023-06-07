@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://sh-cynosdbmysql-grp-e2g25xa4.sql.tencentcdb.com:26753/study?useSSL=false&serverTimezone=UTC
+    username: root
+    password: "010622wjAdm"
+    driver-class-name: com.mysql.jdbc.Driver
+  profiles:
+    active: prod
