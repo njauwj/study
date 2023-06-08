@@ -4,5 +4,3 @@ spring:
     username: root
     password: "010622wjAdm"
     driver-class-name: com.mysql.jdbc.Driver
-  profiles:
-    active: prod
